@@ -1,4 +1,4 @@
-<h1>Welcome to my rare books cataloging site!</h1>
+##Welcome to my rare books cataloging site!
 <p>This website gathers information to train catalogers to catalog rare books. It presumes some previous knowledge of cataloging for libraries but does not assume any prior knowledge of cataloging rare books. Whether you're brand new to rare books cataloging or looking for a refresher, this is a great place to start!</p>
 <h2>What is a rare book?</h2>
 <h2>I'd really like to take an in-person class. What do you recommend?</h2>
