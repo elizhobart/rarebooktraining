@@ -1,5 +1,4 @@
 # Welcome to my rare books cataloging site!
-No test 
 
 This website gathers information to train catalogers to catalog rare books. It presumes some previous knowledge of cataloging for libraries but does not assume any prior knowledge of cataloging rare books. Whether you're brand new to rare books cataloging or looking for a refresher, this is a great place to start!
 
